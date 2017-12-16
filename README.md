@@ -56,7 +56,10 @@ or by just
 ` ssh -v grader@<public_ip>` and the os will look for the file in .ssh folder
 
 ## Change ssh default port and add UFW 
-`nano sudo vim /etc/ssh/sshd_config` change to port 2200 or any availabe number then exit
+`nano sudo vim /etc/ssh/sshd_config` 
+1- change to port 2200 or any availabe number
+2- PermitRootLogin no
+then exit
 `sudo service ssh restart`
 ## enable UFW 
 ```shell
