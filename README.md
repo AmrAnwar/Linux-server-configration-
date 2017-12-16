@@ -99,7 +99,10 @@ GRANT ALL PRIVILEGES ON DATABASE data TO amr;
 ## clone your site (flask app in this example)
 `sudo apt-get install git `
 `cd /var/www`
-` git clone <your project > `
+` git clone <your project > ` 
+
+- in my case i will code : https://github.com/AmrAnwar/cataloge-flask-web-app-udacity-project-
+
 the proejct file name will be (Website) and the main file will be __init__.py
 - `sudo apt-get install python-pip ` 
 in the __init__.py folder 
