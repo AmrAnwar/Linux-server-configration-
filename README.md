@@ -3,8 +3,9 @@
 ** [url for the website after the configration process ](http://ec2-52-29-121-11.eu-central-1.compute.amazonaws.com/ "url for the website after the configration process ")
 **
 
-** public_ip: 52.29.121.11
-ssh_port : 2200 **
+** public_ip: 52.29.121.11 **
+
+** ssh_port : 2200 **
 
 ## Connect Locally
 - create your vpn instance  in my case i used lightsail (ubuntu)
