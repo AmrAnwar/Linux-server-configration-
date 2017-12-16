@@ -132,7 +132,7 @@ then write :
 in your Website folder write :
 `sudo nano website.wsgi` then past this :
 
-```shell
+```python
 #!/usr/bin/python
 import sys
 import logging
