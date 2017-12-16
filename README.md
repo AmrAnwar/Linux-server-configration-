@@ -1,6 +1,6 @@
-###Linux Server Configration & prepare it to host your web applications
+### Linux Server Configration & prepare it to host your web applications
 
-**[url for the website after the configration process ](http://ec2-52-29-121-11.eu-central-1.compute.amazonaws.com/ "url for the website after the configration process ")
+** [url for the website after the configration process ](http://ec2-52-29-121-11.eu-central-1.compute.amazonaws.com/ "url for the website after the configration process ")
 **
 ## Connect Locally
 - create your vpn instance  in my case i used lightsail (ubuntu)
