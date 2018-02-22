@@ -19,8 +19,13 @@
 ## Create new user (grader)
 in your vpn terminal write
 `sudo adduser grader`
+
+
 `nano  /etc/sudoers.d/grader`
+
+
 then wrtie <<
+
 >>grader ALL=(ALL:ALL) ALL
 
 the last step to add grader to sudo group
