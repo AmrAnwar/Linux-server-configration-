@@ -91,8 +91,13 @@ sudo service apache2 restart
 
 # install postgres & create the database 
 ` sudo apt-get install postgresql`
+
+
 ` sudo su - postgres` change to postgres user 
+
+
 `psql` go to the shell
+
 - create the database(data) and user(amr) then give the user all the permission to it 
 ```sql
 CREATE DATABASE data;
