@@ -80,7 +80,11 @@ sudo apt-get upgrade
 # install apache2 & python wsgi
 ```shell
 sudo apt-get install apache2
+
+
 sudo apt-get install libapache2-mod-wsgi
+
+
 sudo service apache2 restart
 ```
 - check your public_ip in the browser ( you will get apache2 default page)
