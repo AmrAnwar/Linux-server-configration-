@@ -138,7 +138,9 @@ python __init__.py # if get run on 127.0.0.1 the server now work fine in the loc
 ```
 
 ## create .config file and wsgi file 
-sudo nano /etc/apache2/sites-available/Website.conf
+`sudo nano /etc/apache2/sites-available/Website.conf`
+
+
 then write :
 ```shell
 
