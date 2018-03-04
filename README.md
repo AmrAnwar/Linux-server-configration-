@@ -64,7 +64,11 @@ or by just
 ## Change ssh default port and add UFW 
 `nano sudo vim /etc/ssh/sshd_config` 
 1- change to port 2200 or any availabe number
+
+
 2- PermitRootLogin no
+
+
 then exit
 `sudo service ssh restart`
 ## enable UFW 
@@ -112,8 +116,13 @@ GRANT ALL PRIVILEGES ON DATABASE data TO amr;
 ```
 ## clone your site (flask app in this example)
 `sudo apt-get install git `
+
+
 `cd /var/www`
+
+
 ` git clone <your project > ` 
+
 
 - in my case i will code : https://github.com/AmrAnwar/cataloge-flask-web-app-udacity-project-
 
